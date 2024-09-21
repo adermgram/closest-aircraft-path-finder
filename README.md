@@ -71,7 +71,7 @@ Enter x and y for aircraft 3: 3.0 1.0
 The closest pair distance is 1.41421
 The closest aircrafts are (1.0, 2.0) named Alpha and (2.0, 3.0) named Bravo
 ```
-## Contribution
+## Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Any contributions or improvements are welcome!
 
 1. Fork the project.
