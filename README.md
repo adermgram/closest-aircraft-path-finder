@@ -12,7 +12,7 @@ This C++ program finds the closest pair of aircrafts from a given list of aircra
   - [Usage](#usage)
 - [Example](#example)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
